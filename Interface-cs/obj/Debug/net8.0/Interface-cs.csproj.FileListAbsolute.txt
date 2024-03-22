@@ -1,0 +1,15 @@
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/bin/Debug/net8.0/Interface-cs
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/bin/Debug/net8.0/Interface-cs.deps.json
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/bin/Debug/net8.0/Interface-cs.runtimeconfig.json
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/bin/Debug/net8.0/Interface-cs.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/bin/Debug/net8.0/Interface-cs.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/Interface-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/Interface-cs.AssemblyInfoInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/Interface-cs.AssemblyInfo.cs
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/Interface-cs.csproj.CoreCompileInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/Interface-cs.sourcelink.json
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/Interface-cs.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/refint/Interface-cs.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/Interface-cs.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/Interface-cs.genruntimeconfig.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Interface-cs/obj/Debug/net8.0/ref/Interface-cs.dll
