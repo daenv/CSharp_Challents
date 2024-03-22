@@ -1,0 +1,15 @@
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/bin/Debug/net8.0/Polymorphism
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/bin/Debug/net8.0/Polymorphism.deps.json
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/bin/Debug/net8.0/Polymorphism.runtimeconfig.json
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/bin/Debug/net8.0/Polymorphism.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/bin/Debug/net8.0/Polymorphism.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/Polymorphism.sourcelink.json
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/Polymorphism.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/refint/Polymorphism.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/Polymorphism.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/Polymorphism.genruntimeconfig.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Polymorphism/obj/Debug/net8.0/ref/Polymorphism.dll

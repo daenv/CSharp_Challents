@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading-cs", "Overloadi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface-cs", "Interface-cs\Interface-cs.csproj", "{0071D4F3-B27B-42A6-AB27-024017BCC3A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{903D6684-350F-48FB-BFA6-CC8CC382D1EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0071D4F3-B27B-42A6-AB27-024017BCC3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0071D4F3-B27B-42A6-AB27-024017BCC3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0071D4F3-B27B-42A6-AB27-024017BCC3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903D6684-350F-48FB-BFA6-CC8CC382D1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903D6684-350F-48FB-BFA6-CC8CC382D1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903D6684-350F-48FB-BFA6-CC8CC382D1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903D6684-350F-48FB-BFA6-CC8CC382D1EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
