@@ -1,0 +1,15 @@
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/bin/Debug/net8.0/Overloading-cs
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/bin/Debug/net8.0/Overloading-cs.deps.json
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/bin/Debug/net8.0/Overloading-cs.runtimeconfig.json
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/bin/Debug/net8.0/Overloading-cs.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/bin/Debug/net8.0/Overloading-cs.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/Overloading-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/Overloading-cs.AssemblyInfoInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/Overloading-cs.AssemblyInfo.cs
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/Overloading-cs.csproj.CoreCompileInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/Overloading-cs.sourcelink.json
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/Overloading-cs.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/refint/Overloading-cs.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/Overloading-cs.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/Overloading-cs.genruntimeconfig.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Overloading-cs/obj/Debug/net8.0/ref/Overloading-cs.dll
