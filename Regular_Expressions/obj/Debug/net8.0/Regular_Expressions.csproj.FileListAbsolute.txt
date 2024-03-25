@@ -1,0 +1,15 @@
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/bin/Debug/net8.0/Regular_Expressions
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/bin/Debug/net8.0/Regular_Expressions.deps.json
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/bin/Debug/net8.0/Regular_Expressions.runtimeconfig.json
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/bin/Debug/net8.0/Regular_Expressions.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/bin/Debug/net8.0/Regular_Expressions.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/Regular_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/Regular_Expressions.AssemblyInfoInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/Regular_Expressions.AssemblyInfo.cs
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/Regular_Expressions.csproj.CoreCompileInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/Regular_Expressions.sourcelink.json
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/Regular_Expressions.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/refint/Regular_Expressions.dll
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/Regular_Expressions.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/Regular_Expressions.genruntimeconfig.cache
+/Users/daenv/RiderProjects/CSharp_Challents/Regular_Expressions/obj/Debug/net8.0/ref/Regular_Expressions.dll
