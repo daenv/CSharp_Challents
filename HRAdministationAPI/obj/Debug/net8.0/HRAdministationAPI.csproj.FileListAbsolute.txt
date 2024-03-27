@@ -1,0 +1,12 @@
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/bin/Debug/net8.0/HRAdministationAPI.deps.json
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/bin/Debug/net8.0/HRAdministationAPI.dll
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/bin/Debug/net8.0/HRAdministationAPI.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/HRAdministationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/HRAdministationAPI.AssemblyInfoInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/HRAdministationAPI.AssemblyInfo.cs
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/HRAdministationAPI.csproj.CoreCompileInputs.cache
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/HRAdministationAPI.sourcelink.json
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/HRAdministationAPI.dll
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/refint/HRAdministationAPI.dll
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/HRAdministationAPI.pdb
+/Users/daenv/RiderProjects/CSharp_Challents/HRAdministationAPI/obj/Debug/net8.0/ref/HRAdministationAPI.dll
