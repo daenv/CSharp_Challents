@@ -5,6 +5,13 @@ using System.Linq;
 
 namespace SchoolHRAdministraion
 {
+    public enum EmployeeType
+    {
+        Teacher,
+        HeadOfDepartment,
+        DeputyHeadMaster,
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -26,36 +33,16 @@ namespace SchoolHRAdministraion
 
         public static void SeedData(List<IEmployees> employees)
         {
-            IEmployees teacher1 = new Teacher
-            {
-                Id = 1,
-                FirstName = "John",
-                LastName = "Doe",
-                Salary = 1000
-            };
-            IEmployees teacher2 = new Teacher
-            {
-                Id = 2,
-                FirstName = "Jane",
-                LastName = "Doe",
-                Salary = 2000
-            };
+            IEmployees teacher1 = EmployeesFactory.GetEmployeeInstance(EmployeeType.Teacher, 1, "John", "Doe", 1000);
+            IEmployees teacher2 = EmployeesFactory.GetEmployeeInstance(EmployeeType.Teacher, 2, "Jane", "Doe", 2000);
 
-            IEmployees headOfDepartment = new HeadOfDepartment
-            {
-                Id = 3,
-                FirstName = "Jack",
-                LastName = "Doe",
-                Salary = 3000
-            };
 
-            IEmployees deputyHeadMaster = new DeputyHeadMaster
-            {
-                Id = 4,
-                FirstName = "Jill",
-                LastName = "Doe",
-                Salary = 4000
-            };
+            IEmployees headOfDepartment =
+                EmployeesFactory.GetEmployeeInstance(EmployeeType.HeadOfDepartment, 3, "Jack", "Doe", 3000);
+
+
+            IEmployees deputyHeadMaster =
+                EmployeesFactory.GetEmployeeInstance(EmployeeType.DeputyHeadMaster, 4, "Jill", "Doe", 4000);
 
             employees.Add(teacher1);
             employees.Add(teacher2);
@@ -64,36 +51,69 @@ namespace SchoolHRAdministraion
             Console.WriteLine("Data seeded successfully");
         }
     }
-}
 
-public class Teacher : EmployeesBase
-{
-    public override decimal Salary
+
+    public class Teacher : EmployeesBase
     {
-        get => base.Salary + (base.Salary * 0.03m);
+        public override decimal Salary
+        {
+            get => base.Salary + (base.Salary * 0.03m);
+        }
     }
-}
 
-public class HeadOfDepartment : EmployeesBase
-{
-    public override decimal Salary
+    public class HeadOfDepartment : EmployeesBase
     {
-        get => base.Salary + (base.Salary * 0.05m);
+        public override decimal Salary
+        {
+            get => base.Salary + (base.Salary * 0.05m);
+        }
     }
-}
 
-public class DeputyHeadMaster : EmployeesBase
-{
-    public override decimal Salary
+    public class DeputyHeadMaster : EmployeesBase
     {
-        get => base.Salary + (base.Salary * 0.07m);
+        public override decimal Salary
+        {
+            get => base.Salary + (base.Salary * 0.07m);
+        }
     }
-}
 
-public class HeadMaster : EmployeesBase
-{
-    public override decimal Salary
+    public class HeadMaster : EmployeesBase
     {
-        get => base.Salary + (base.Salary * 0.1m);
+        public override decimal Salary
+        {
+            get => base.Salary + (base.Salary * 0.1m);
+        }
+    }
+
+    public static class EmployeesFactory
+    {
+        public static IEmployees GetEmployeeInstance(EmployeeType employeeType, int id, string firstName,
+            string lastName, decimal salary)
+        {
+            IEmployees employee = null;
+
+            switch (employeeType)
+            {
+                case EmployeeType.Teacher:
+                    employee = FactoryPattern<IEmployees, Teacher>.GetInstance();
+                    break;
+                case EmployeeType.HeadOfDepartment:
+                    employee = FactoryPattern<IEmployees, HeadOfDepartment>.GetInstance();
+                    break;
+                case EmployeeType.DeputyHeadMaster:
+                    employee = FactoryPattern<IEmployees, DeputyHeadMaster>.GetInstance();
+                    break;
+            }
+
+            if (employee != null)
+            {
+                employee.Id = id;
+                employee.FirstName = firstName;
+                employee.LastName = lastName;
+                employee.Salary = salary;
+            }
+
+            return employee;
+        }
     }
 }

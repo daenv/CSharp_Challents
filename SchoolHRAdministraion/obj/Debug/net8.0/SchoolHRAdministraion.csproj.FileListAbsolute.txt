@@ -16,4 +16,4 @@
 /Users/daenv/RiderProjects/CSharp_Challents/SchoolHRAdministraion/bin/Debug/net8.0/HRAdministationAPI.dll
 /Users/daenv/RiderProjects/CSharp_Challents/SchoolHRAdministraion/bin/Debug/net8.0/HRAdministationAPI.pdb
 /Users/daenv/RiderProjects/CSharp_Challents/SchoolHRAdministraion/obj/Debug/net8.0/SchoolHRAdministraion.csproj.AssemblyReference.cache
-/Users/daenv/RiderProjects/CSharp_Challents/SchoolHRAdministraion/obj/Debug/net8.0/SchoolHRAdministraion.csproj.CopyComplete
+/Users/daenv/RiderProjects/CSharp_Challents/SchoolHRAdministraion/obj/Debug/net8.0/SchoolHR.C222000D.Up2Date

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRAdministationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e8c5a7e8cdc468f6a6587a8443a5eacf985ba0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f749b5705418802972b00496669cbe25c9b3460")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRAdministationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRAdministationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
