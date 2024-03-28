@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolHRAdministraion", "Sc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRAdministationAPI", "HRAdministationAPI\HRAdministationAPI.csproj", "{1AAFD485-32A9-457D-BAB1-25CDF31CAEFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaenvWeb", "DaenvWeb\DaenvWeb.csproj", "{518B1086-2D26-4AD7-AAA8-29C22AD66BC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{1AAFD485-32A9-457D-BAB1-25CDF31CAEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AAFD485-32A9-457D-BAB1-25CDF31CAEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AAFD485-32A9-457D-BAB1-25CDF31CAEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518B1086-2D26-4AD7-AAA8-29C22AD66BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518B1086-2D26-4AD7-AAA8-29C22AD66BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518B1086-2D26-4AD7-AAA8-29C22AD66BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518B1086-2D26-4AD7-AAA8-29C22AD66BC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
